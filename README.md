@@ -7,4 +7,4 @@
 
 ## Need to get sentiments Analysis and Emotion mining with some charts like histogram, Density plot, Barplot, pie-plot etc.
 
-## Deployment through R Shiny or Flask/ Streamlit
+## Deployment through Streamlit
